@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437348689998",
+    "project_id": "directorioempresas-fb85e",
+    "storage_bucket": "directorioempresas-fb85e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437348689998:android:f0d516d6a9f0072d123b1f",
+        "android_client_info": {
+          "package_name": "com.mycompany.directorioempresas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsFv5BM6R6gzQkumPBTGwrsvWunJttI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
